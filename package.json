@@ -1,0 +1,16 @@
+{
+  "name": "octopus-bot",
+  "version": "1.0.0",
+  "description": "Octopus Bot - Telegram Sales Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "grammy": "^1.26.0",
+    "@supabase/supabase-js": "^2.45.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
